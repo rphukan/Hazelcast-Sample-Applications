@@ -1,0 +1,6 @@
+---
+applications:
+- name: shops-near-you-api
+  memory: 512M
+  instances: 1
+  path: ./target/shops-near-you-0.0.1-SNAPSHOT.jar
